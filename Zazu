@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zazu Classroom (Aftercare) | Hakuna Matatah Preschool</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <header>
+        <nav>
+            <div class="logo">Hakuna Matatah</div>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="enrollment.html">Enrollment</a></li>
+                <li class="dropdown">
+                    <a href="javascript:void(0)" class="dropbtn">Classrooms</a>
+                    <div class="dropdown-content">
+                        <a href="simba.html">Simba (Infant)</a>
+                        <a href="timon.html">Timon (Toddler)</a>
+                        <a href="pumba.html">Pumba (Preschool)</a>
+                        <a href="zazu.html">Zazu (Aftercare)</a>
+                    </div>
+                </li>
+                <li><a href="staff.html">Our Staff</a></li>
+                <li><a href="gallery.html">Gallery</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="classroom">
+            <h1>Zazu Classroom (Aftercare)</h1>
+            <p>Our Zazu Aftercare program provides a safe, fun, and engaging environment for school-aged children after their school day. We offer a mix of structured activities and free play.</p>
+
+            <h2>Program Agenda</h2>
+            <p>The aftercare program is designed to be a relaxing and enriching extension of the school day. Activities include:</p>
+            <ul>
+                <li><strong>Homework Help:</strong> Dedicated time and support for completing school assignments.</li>
+                <li><strong>Creative Play:</strong> Access to art supplies, board games, and building blocks.</li>
+                <li><strong>Outdoor Recreation:</strong> Time for sports and games to release energy.</li>
+                <li><strong>Group Activities:</strong> Storytelling, team-building games, and special projects.</li>
+                <li><strong>Social Interaction:</strong> Encouraging positive relationships among peers.</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Hakuna Matatah Preschool and Childcare Center. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
