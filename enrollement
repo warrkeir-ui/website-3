@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enrollment | Hakuna Matatah Preschool</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <header>
+        <nav>
+            <div class="logo">Hakuna Matatah</div>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="enrollment.html">Enrollment</a></li>
+                <li class="dropdown">
+                    <a href="javascript:void(0)" class="dropbtn">Classrooms</a>
+                    <div class="dropdown-content">
+                        <a href="simba.html">Simba (Infant)</a>
+                        <a href="timon.html">Timon (Toddler)</a>
+                        <a href="pumba.html">Pumba (Preschool)</a>
+                        <a href="zazu.html">Zazu (Aftercare)</a>
+                    </div>
+                </li>
+                <li><a href="staff.html">Our Staff</a></li>
+                <li><a href="gallery.html">Gallery</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="enrollment">
+            <h1>Enrollment Information</h1>
+            <p>Thank you for your interest in Hakuna Matatah Preschool and Childcare Center. We are dedicated to providing quality care for your child and ensuring all licensing requirements are met. Please read our contract and fee schedule below.</p>
+
+            <h2>Fee Schedule and Policies</h2>
+            <div class="fee-schedule">
+                <p>Tuition payments are due on Mondays at the start of each week. Billing will be done on Tuesday, and all late fees will be added if tuition has not been paid in full as directed. A late fee of $35.00 will be charged on Tuesday if tuition has not been received at that time. An additional $50.00 will be added if tuition has not been paid by Wednesday.</p>
+                <p>Hours of operation are from 7:00 am to 6:00 pm. Extended hours are available for those families in need. There will be a late charge of $5 per minute if children are not picked up at the contracted time. Please be on time to pick up your child(ren). Payments are accepted via cash, debit card, and checks. However, returned checks will be charged a $35.00 NSF fee, and we will not be able to accept payments via check again.</p>
+                
+                <h3>3 years of age and older:</h3>
+                <ul>
+                    <li>Full time 5 days/week: [Insert Fee Here]</li>
+                    <li>Part time 3 days/week: [Insert Fee Here]</li>
+                </ul>
+
+                <h3>Infant and Toddlers:</h3>
+                <ul>
+                    <li>Full time 5 days/week: [Insert Fee Here]</li>
+                    <li>Part time 3 days/week: [Insert Fee Here]</li>
+                </ul>
+                <p>Please note: The full fee schedule is available in the enrollment packet.</p>
+            </div>
+            
+            <a href="Complete Enrollment Packet (1).pdf" download class="download-button">Download Complete Enrollment Packet</a>
+
+            <h2>Enrollment Procedure</h2>
+            <p>To begin the enrollment process, please download and complete our enrollment packet. Once completed, you can submit the forms to our office. We will then schedule a meeting to finalize the enrollment and answer any questions you may have. We look forward to welcoming you and your child to our family!</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Hakuna Matatah Preschool and Childcare Center. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
