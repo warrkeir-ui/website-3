@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Our Staff | Hakuna Matatah Preschool</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <header>
+        <nav>
+            <div class="logo">Hakuna Matatah</div>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="enrollment.html">Enrollment</a></li>
+                <li class="dropdown">
+                    <a href="javascript:void(0)" class="dropbtn">Classrooms</a>
+                    <div class="dropdown-content">
+                        <a href="simba.html">Simba (Infant)</a>
+                        <a href="timon.html">Timon (Toddler)</a>
+                        <a href="pumba.html">Pumba (Preschool)</a>
+                        <a href="zazu.html">Zazu (Aftercare)</a>
+                    </div>
+                </li>
+                <li><a href="staff.html">Our Staff</a></li>
+                <li><a href="gallery.html">Gallery</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="staff">
+            <h1>Meet Our Staff</h1>
+            <p>Our dedicated team is committed to providing a nurturing and educational environment for your children. We are proud of our highly qualified and experienced staff members.</p>
+
+            <div class="staff-container">
+                <div class="staff-member">
+                    <img src="images/IMG_1238.jpg" alt="Stefanie Boyd">
+                    <h3>Stefanie Boyd</h3>
+                    <p>Director</p>
+                    <p><strong>Accolades:</strong> 20+ years experience, CPR, CDA</p>
+                </div>
+                <div class="staff-member">
+                    <img src="images/IMG_1238 (1).jpg" alt="Heaven Harris">
+                    <h3>Heaven Harris</h3>
+                    <p>Co-teacher</p>
+                    <p><strong>Accolades:</strong> CPR</p>
+                </div>
+                <div class="staff-member">
+                    <img src="images/IMG_2954.jpg" alt="Keir Warr">
+                    <h3>Keir Warr</h3>
+                    <p>Lead Preschool Teacher</p>
+                    <p><strong>Accolades:</strong> CPR, CDA</p>
+                </div>
+                <div class="staff-member">
+                    <img src="images/IMG_2926.jpg" alt="Kennedy Warr">
+                    <h3>Kennedy Warr</h3>
+                    <p>Lead Infant Teacher</p>
+                    <p><strong>Accolades:</strong> CPR, CD.A</p>
+                </div>
+                <div class="staff-member">
+                    <img src="images/IMG_3129.jpg" alt="Kathy Bailey">
+                    <h3>Kathy Bailey</h3>
+                    <p>Toddler Lead Teacher</p>
+                    <p><strong>Accolades:</strong> CPR, 10+ years experience</p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Hakuna Matatah Preschool and Childcare Center. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
