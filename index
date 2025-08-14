@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hakuna Matatah Preschool and Childcare Center</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <header>
+        <nav>
+            <div class="logo">Hakuna Matatah</div>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="enrollment.html">Enrollment</a></li>
+                <li class="dropdown">
+                    <a href="javascript:void(0)" class="dropbtn">Classrooms</a>
+                    <div class="dropdown-content">
+                        <a href="simba.html">Simba (Infant)</a>
+                        <a href="timon.html">Timon (Toddler)</a>
+                        <a href="pumba.html">Pumba (Preschool)</a>
+                        <a href="zazu.html">Zazu (Aftercare)</a>
+                    </div>
+                </li>
+                <li><a href="staff.html">Our Staff</a></li>
+                <li><a href="gallery.html">Gallery</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="welcome">
+            <div class="hero-image">
+                <img src="images/IMG_2512.jpeg" alt="Exterior of Hakuna Matatah Preschool and Childcare Center">
+            </div>
+            <h1>Welcome to Hakuna Matatah Preschool and Childcare Center</h1>
+            <p>"Where Learning and Care Meet"</p>
+        </section>
+
+        <section id="meet-the-owner">
+            <h2>A Welcome from Our Owner</h2>
+            <div class="owner-content">
+                <img src="images/owner_stefanie_boyd.jpg" alt="Stefanie Boyd, Director" class="owner-photo">
+                <div class="owner-text">
+                    <p>Hello and welcome to Hakuna Matatah Preschool and Childcare Center! I'm Stefanie Boyd, and I'm so glad you're here. With over 20 years of experience in early childhood education, I've had the joy of watching countless children grow and thrive. My passion is to create a nurturing and loving environment where every child feels safe, cared for, and excited to learn. I believe in treating each child with the same love and kindness I would my own, and it's my promise to you that your little one will be in good hands.</p>
+                    <p>I understand that choosing the right care for your child is one of the most important decisions you'll make. That's why I am dedicated to being accommodating to your family's needs and maintaining an open, trusting relationship with every parent. Thank you for considering Hakuna Matatah. I can't wait to meet you and your child!</p>
+                </div>
+            </div>
+        </section>
+
+        <section id="testimonials">
+            <h2>Testimonials</h2>
+            <div class="testimonial-container">
+                <div class="testimonial">
+                    <p>"Amazing school, my kids love it there."</p>
+                    <p class="author">- Ashley A.</p>
+                </div>
+                <div class="testimonial">
+                    <p>"Kind to parents and children"</p>
+                    <p class="author">- Tiffany M.</p>
+                </div>
+                <div class="testimonial">
+                    <p>"We couldn't be happier with our experience at Hakuna Matata Preschool & Child Care Center. Our daughter, Kali, absolutely loves coming to school every day, and we are so impressed with how much she has grown and learned. The staff is incredibly welcoming and nurturing, creating a truly special environment. We are so grateful and wholeheartedly recommend them to any family."</p>
+                    <p class="author">- The Tarpley Family</p>
+                </div>
+                <div class="testimonial">
+                    <p>"As a working mom of 4, finding a center that could accommodate my unpredictable hours was a huge challenge - until we found Hakuna Matatah. The flexibility has been a lifesaver, and the after-care program has been incredibly beneficial for my kids. They love it here, and so do I!"</p>
+                    <p class="author">- Marylin H.</p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Hakuna Matatah Preschool and Childcare Center. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
