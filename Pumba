@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pumba Classroom (Preschool) | Hakuna Matatah Preschool</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <header>
+        <nav>
+            <div class="logo">Hakuna Matatah</div>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="enrollment.html">Enrollment</a></li>
+                <li class="dropdown">
+                    <a href="javascript:void(0)" class="dropbtn">Classrooms</a>
+                    <div class="dropdown-content">
+                        <a href="simba.html">Simba (Infant)</a>
+                        <a href="timon.html">Timon (Toddler)</a>
+                        <a href="pumba.html">Pumba (Preschool)</a>
+                        <a href="zazu.html">Zazu (Aftercare)</a>
+                    </div>
+                </li>
+                <li><a href="staff.html">Our Staff</a></li>
+                <li><a href="gallery.html">Gallery</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="classroom">
+            <h1>Pumba Classroom (Preschool)</h1>
+            <p>The Pumba classroom prepares children for kindergarten by focusing on school readiness skills. Our curriculum is designed to foster a love of learning and build a strong academic foundation.</p>
+
+            <h2>Curriculum Agenda</h2>
+            <p>Our preschool curriculum includes:</p>
+            <ul>
+                <li><strong>Literacy:</strong> Phonics, letter recognition, and early reading skills.</li>
+                <li><strong>Numeracy:</strong> Counting, number recognition, and basic math concepts.</li>
+                <li><strong>Science and Social Studies:</strong> Hands-on experiments and exploring the world around them.</li>
+                <li><strong>Social-Emotional Development:</strong> Learning to cooperate, solve conflicts, and express feelings.</li>
+                <li><strong>Creative Arts:</strong> Music, art, and dramatic play to encourage self-expression.</li>
+            </ul>
+
+            <h2>Daily Schedule</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Time</th>
+                        <th>Activity</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>7:00 AM - 8:30 AM</td>
+                        <td><strong>Arrival & Center Time:</strong> Free play and greeting friends.</td>
+                    </tr>
+                    <tr>
+                        <td>8:30 AM - 9:00 AM</td>
+                        <td><strong>Morning Circle:</strong> Calendar, weather, songs, and story time.</td>
+                    </tr>
+                    <tr>
+                        <td>9:00 AM - 9:30 AM</td>
+                        <td><strong>Morning Snack:</strong> Community snack time.</td>
+                    </tr>
+                    <tr>
+                        <td>9:30 AM - 10:30 AM</td>
+                        <td><strong>Academic Centers:</strong> Small group activities focused on literacy and math.</td>
+                    </tr>
+                    <tr>
+                        <td>10:30 AM - 11:30 AM</td>
+                        <td><strong>Outdoor Play:</strong> Large motor skill development.</td>
+                    </tr>
+                    <tr>
+                        <td>11:30 AM - 12:00 PM</td>
+                        <td><strong>Read Aloud & Transition:</strong> Preparing for lunch.</td>
+                    </tr>
+                    <tr>
+                        <td>12:00 PM - 12:45 PM</td>
+                        <td><strong>Lunch Time:</strong> Nutritious meal served.</td>
+                    </tr>
+                    <tr>
+                        <td>12:45 PM - 1:00 PM</td>
+                        <td><strong>Quiet Time:</strong> Wind down with quiet stories or soft music.</td>
+                    </tr>
+                    <tr>
+                        <td>1:00 PM - 2:30 PM</td>
+                        <td><strong>Nap Time / Quiet Rest:</strong> Rest time or quiet activities.</td>
+                    </tr>
+                    <tr>
+                        <td>2:30 PM - 3:00 PM</td>
+                        <td><strong>Afternoon Snack:</strong> Refueling for the afternoon.</td>
+                    </tr>
+                    <tr>
+                        <td>3:00 PM - 4:00 PM</td>
+                        <td><strong>Project & Art Time:</strong> Hands-on creative activities.</td>
+                    </tr>
+                    <tr>
+                        <td>4:00 PM - 5:00 PM</td>
+                        <td><strong>Outdoor Play / Free Play:</strong> Final play period.</td>
+                    </tr>
+                    <tr>
+                        <td>5:00 PM - 6:00 PM</td>
+                        <td><strong>Clean-up & Dismissal:</strong> Packing up and awaiting parent pick-up.</td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Hakuna Matatah Preschool and Childcare Center. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
