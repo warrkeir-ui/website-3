@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gallery & Calendar | Hakuna Matatah Preschool</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <header>
+        <nav>
+            <div class="logo">Hakuna Matatah</div>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="enrollment.html">Enrollment</a></li>
+                <li class="dropdown">
+                    <a href="javascript:void(0)" class="dropbtn">Classrooms</a>
+                    <div class="dropdown-content">
+                        <a href="simba.html">Simba (Infant)</a>
+                        <a href="timon.html">Timon (Toddler)</a>
+                        <a href="pumba.html">Pumba (Preschool)</a>
+                        <a href="zazu.html">Zazu (Aftercare)</a>
+                    </div>
+                </li>
+                <li><a href="staff.html">Our Staff</a></li>
+                <li><a href="gallery.html">Gallery</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="gallery-and-calendar">
+            <h1>Gallery & Calendar</h1>
+
+            <div id="calendar-section">
+                <h2>Important Dates - 2025</h2>
+                <div class="calendar-item">
+                    <h3>August</h3>
+                    <ul>
+                        <li><strong>8/20:</strong> Parent Meeting</li>
+                        <li><strong>8/25:</strong> MONDAY - 9/ FALL RESET</li>
+                    </ul>
+                </div>
+                <div class="calendar-item">
+                    <h3>September</h3>
+                    <ul>
+                        <li><strong>9/2:</strong> TUESDAY WELCOME BACK</li>
+                    </ul>
+                </div>
+                <div class="calendar-item">
+                    <h3>November</h3>
+                    <ul>
+                        <li><strong>11/27-11/28:</strong> THANKSGIVING BREAK</li>
+                    </ul>
+                </div>
+                <div class="calendar-item">
+                    <h3>December</h3>
+                    <ul>
+                        <li><strong>12/23:</strong> LAST day of session</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div id="gallery-section">
+                <h2>Our Wonderful Students</h2>
+                <div class="gallery-grid">
+                    <img src="images/IMG_2926.jpg" alt="A child playing">
+                    <img src="images/IMG_2954.jpg" alt="Children in the classroom">
+                    <img src="images/IMG_1238.jpg" alt="A group of children smiling">
+                    <img src="images/IMG_1238 (1).jpg" alt="Student with a staff member">
+                    <img src="images/IMG_3129.jpg" alt="Children doing an activity">
+                    <img src="images/IMG_2512.jpeg" alt="Students outdoors">
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Hakuna Matatah Preschool and Childcare Center. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
