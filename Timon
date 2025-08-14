@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Timon Classroom (Toddler) | Hakuna Matatah Preschool</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <header>
+        <nav>
+            <div class="logo">Hakuna Matatah</div>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="enrollment.html">Enrollment</a></li>
+                <li class="dropdown">
+                    <a href="javascript:void(0)" class="dropbtn">Classrooms</a>
+                    <div class="dropdown-content">
+                        <a href="simba.html">Simba (Infant)</a>
+                        <a href="timon.html">Timon (Toddler)</a>
+                        <a href="pumba.html">Pumba (Preschool)</a>
+                        <a href="zazu.html">Zazu (Aftercare)</a>
+                    </div>
+                </li>
+                <li><a href="staff.html">Our Staff</a></li>
+                <li><a href="gallery.html">Gallery</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="classroom">
+            <h1>Timon Classroom (Toddler)</h1>
+            <p>In the Timon classroom, we focus on helping toddlers explore their world with a sense of wonder and independence. Our curriculum supports their growing curiosity and physical abilities.</p>
+
+            <h2>Curriculum Agenda</h2>
+            <p>Our toddler curriculum focuses on key developmental milestones, including:</p>
+            <ul>
+                <li><strong>Independent Exploration:</strong> Allowing children to choose their own activities and build confidence.</li>
+                <li><strong>Social Skills:</strong> Learning to share, take turns, and interact with peers.</li>
+                <li><strong>Language Development:</strong> Expanding vocabulary through stories, songs, and conversations.</li>
+                <li><strong>Fine and Gross Motor Skills:</strong> Activities like stacking blocks, drawing, and running and jumping to build coordination.</li>
+                <li><strong>Problem-Solving:</strong> Puzzles and simple cause-and-effect activities.</li>
+            </ul>
+            
+            <h2>Daily Schedule</h2>
+            <p>The daily schedule for our infant and toddler classrooms is designed to be flexible and responsive to the children's individual needs.</p>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Time</th>
+                        <th>Activity</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>7:00 AM - 9:00 AM</td>
+                        <td><strong>Arrival & Free Play:</strong> Greet children, prepare for the day.</td>
+                    </tr>
+                    <tr>
+                        <td>9:00 AM - 9:30 AM</td>
+                        <td><strong>Morning Snack:</strong> Healthy snacks are provided.</td>
+                    </tr>
+                    <tr>
+                        <td>9:30 AM - 10:30 AM</td>
+                        <td><strong>Activity Time:</strong> Arts & Crafts, reading, and sensory play.</td>
+                    </tr>
+                    <tr>
+                        <td>10:30 AM - 11:15 AM</td>
+                        <td><strong>Outdoor Play:</strong> If weather permits.</td>
+                    </tr>
+                    <tr>
+                        <td>11:15 AM - 12:15 PM</td>
+                        <td><strong>Quiet Time & Story Time:</strong> Winding down for lunch.</td>
+                    </tr>
+                    <tr>
+                        <td>12:15 PM - 1:00 PM</td>
+                        <td><strong>Lunch Time:</strong> Nutritious lunch is served.</td>
+                    </tr>
+                    <tr>
+                        <td>1:00 PM - 1:30 PM</td>
+                        <td><strong>Quiet Time & Story Time:</strong> Preparing for rest.</td>
+                    </tr>
+                    <tr>
+                        <td>1:30 PM - 3:00 PM</td>
+                        <td><strong>Nap Time / Quiet Rest:</strong> Individualized rest time.</td>
+                    </tr>
+                    <tr>
+                        <td>3:00 PM - 3:30 PM</td>
+                        <td><strong>Afternoon Snack:</strong> Refreshments and snacks.</td>
+                    </tr>
+                    <tr>
+                        <td>3:30 PM - 4:15 PM</td>
+                        <td><strong>Creative Play:</strong> Music, movement, and group activities.</td>
+                    </tr>
+                    <tr>
+                        <td>4:15 PM - 5:15 PM</td>
+                        <td><strong>Outdoor Play:</strong> Last call for outdoor fun.</td>
+                    </tr>
+                    <tr>
+                        <td>5:15 PM - 6:00 PM</td>
+                        <td><strong>Quiet Play & Dismissal:</strong> Books, puzzles, and awaiting pick-up.</td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Hakuna Matatah Preschool and Childcare Center. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
